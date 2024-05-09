@@ -1,0 +1,3 @@
+prometheus_client
+adafruit-circuitpython-bme280
+RPi.GPIO
